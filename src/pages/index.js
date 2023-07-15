@@ -26,16 +26,7 @@ const IndexPage = () => {
 
   return (
     <Layout disablePaddingBottom>
-<div >
-	<div >
-		<div >
-			<h1 id="profile-eileen-town" class="sc-dlfnbm Header__GridHeading-sc-i98650-1 cTsoyo eiGOpF">Eileen Town</h1>
-		</div>
-		<div >
-			<h2>Eileen Town is a Singapore online gift shop, offering unique gifts such as money flowers, fortune cat, music boxes, wedding gifts, couple gifts and much more for various occasions. Searching for a unique and memorable gift for your special occasion can be very challenging. You want a unique gift to for someone special, to celebrate a special occasion, to get a personalized gift, to express your feelings and to show that you care.</h2>
-		</div>
-	</div>
-</div>
+
 
 
 
